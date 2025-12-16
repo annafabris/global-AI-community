@@ -6,6 +6,8 @@ A collection of presentations delivered for the Italian chapter of the Global AI
 - [AgentCon 2025 – Milan](#agentcon-2025--milan)
 
 ## Global AI Bootcamp 2025 - Milan
+![Global AI Bootcamp Banner](https://globalai.community/media/czxdqctj/milan_289_banner.png)
+
 **Presentation Topic:** *Enhancing Large Language Models with Reinforcement Learning*  
 **Date:** 12 March 2025  
 **Location:** Reggio Emilia, Italy  
@@ -15,10 +17,6 @@ A collection of presentations delivered for the Italian chapter of the Global AI
 
 ## AgentCon 2025 - Milan
 ![AgentCon 2025 Banner](https://globalai.community/media/o3xj4vct/agentcon_banner_v3.jpg)
-
-![Event](https://img.shields.io/badge/Event-AgentCon-purple)  
-![Year](https://img.shields.io/badge/Year-2025-green)  
-![Topic](https://img.shields.io/badge/Topic-Multi--Agent%20Systems-orange)
 
 **Presentation Topic:** *Multi-Agent Systems*  
 **Date:** May 2025  
