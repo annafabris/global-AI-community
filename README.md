@@ -1,5 +1,5 @@
 # Global AI Community talks
-A collection of presentations delivered for the Italian chapter of the Global AI Community.
+A collection of talks I presented for the Italian chapter of the Global AI Community.
 
 ## Table of Contents
 - [Global AI Bootcamp 2025 – Milan](#global-ai-bootcamp-2025--milan)
