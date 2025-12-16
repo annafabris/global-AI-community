@@ -1,10 +1,6 @@
 # Global AI Community talks
 A collection of talks I presented for the Italian chapter of the Global AI Community.
 
-## Table of Contents
-- [Global AI Bootcamp 2025 – Milan](#global-ai-bootcamp-2025--milan)
-- [AgentCon 2025 – Milan](#agentcon-2025--milan)
-
 ## Global AI Bootcamp 2025 - Milan
 ![Global AI Bootcamp Banner](https://globalai.community/media/czxdqctj/milan_289_banner.png)
 
