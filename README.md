@@ -14,6 +14,7 @@ A collection of presentations delivered for the Italian chapter of the Global AI
 🔗 [Event Page](https://globalai.community/chapters/milan/events/global-ai-bootcamp-2025-milan/)
 
 ## AgentCon 2025 - Milan
+![AgentCon 2025 Banner](https://globalai.community/media/o3xj4vct/agentcon_banner_v3.jpg)
 
 ![Event](https://img.shields.io/badge/Event-AgentCon-purple)  
 ![Year](https://img.shields.io/badge/Year-2025-green)  
