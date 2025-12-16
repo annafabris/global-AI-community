@@ -12,7 +12,7 @@ A collection of presentations delivered for the Italian chapter of the Global AI
 **Date:** 12 March 2025  
 **Location:** Reggio Emilia, Italy  
 
-📑 [Slides](https://github.com/annafabris/global-AI-community/blob/main/Enhancing%20LLMs%20with%20RL.pdf)  
+📑 [View Slides](https://github.com/annafabris/global-AI-community/blob/main/Enhancing%20LLMs%20with%20RL.pdf)  
 🔗 [Event Page](https://globalai.community/chapters/milan/events/global-ai-bootcamp-2025-milan/)
 
 ## AgentCon 2025 - Milan
@@ -26,5 +26,5 @@ A collection of presentations delivered for the Italian chapter of the Global AI
 - *Architecture Insights* – Me  
 - *Semantic Kernel Demo* – Matteo Pagani (Microsoft)  
 
-📑 [Slides](https://github.com/annafabris/global-AI-community/blob/main/Costruire%20sistemi%20multi-agente%20efficaci%20con%20Semantic%20Kernel.pdf)  
+📑 [View Slides](https://github.com/annafabris/global-AI-community/blob/main/Costruire%20sistemi%20multi-agente%20efficaci%20con%20Semantic%20Kernel.pdf)  
 🔗 [Event Page](https://globalai.community/chapters/milan/events/agentcon-2025-milan/)
