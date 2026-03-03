@@ -32,5 +32,5 @@ A collection of talks I presented for the Italian chapter of the Global AI Commu
 **Date:** 03 March 2026 
 **Location:** Online  
 
-📑 [View Slides](...)  
+📑 [View Slides](https://github.com/annafabris/global-AI-community/blob/main/Building%20Intelligent%20Agents%20with%20Microsoft%20Foundry%2C%20Github%20Copilot%20%26%20AI%20Toolkit.pdf)  
 🔗 [Event Page](https://globalai.community/agentcamp/milan/)
