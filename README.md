@@ -4,9 +4,9 @@ A collection of talks I presented for the Italian chapter of the Global AI Commu
 ---
 
 ## Global AI Bootcamp 2025 - Milan
+### Presentation Topic: *Enhancing Large Language Models with Reinforcement Learning*  
 ![Global AI Bootcamp Banner](https://globalai.community/media/czxdqctj/milan_289_banner.png)
 
-**Presentation Topic:** *Enhancing Large Language Models with Reinforcement Learning*  
 **Date:** 12 March 2025  
 **Location:** Reggio Emilia, Italy  
 
@@ -16,9 +16,10 @@ A collection of talks I presented for the Italian chapter of the Global AI Commu
 ---
 
 ## AgentCon 2025 - Milan
+### Presentation Topic: *Multi-Agent Systems*  
+
 ![AgentCon 2025 Banner](https://globalai.community/media/o3xj4vct/agentcon_banner_v3.jpg)
 
-**Presentation Topic:** *Multi-Agent Systems*  
 **Date:** May 2025  
 **Location:** Milan, Italy  
 
@@ -32,12 +33,10 @@ A collection of talks I presented for the Italian chapter of the Global AI Commu
 ---
 
 ## Global AI Agentcamp 2026 - Milan
+### Presentation Topic: *Building Intelligent Agents with Microsoft Foundry, Github Copilot & AI Toolkit*
 <div align="center">
-<img src="https://globalai.community/media/it0l1ija/08b9c431620143f5b27aa69d34d7c331.png?width=800&height=800&v=1dc73c7185ce6e0" alt="Global AI Agentcamp Banner" width="60%"/>
+  <img src="https://globalai.community/media/it0l1ija/08b9c431620143f5b27aa69d34d7c331.png?width=800&height=700&v=1dc73c7185ce6e0" alt="Agentcamp 2026 Banner"/>
 </div>
-
-
-**Presentation Topic:** *Building Intelligent Agents with Microsoft Foundry, Github Copilot & AI Toolkit*
 
 **Date:** 03 March 2026 
 **Location:** Online  
